@@ -1,0 +1,37 @@
+.heading h1{
+display:inline;
+
+}
+
+.heading button{
+    float:right;
+    border:1px solid whitesmoke
+}
+body{
+    background-image:url("background.jpg") ;
+}
+.heading{
+    width:100%;
+    text-align: left;
+}
+.modal-dialog{
+    width: 80%;
+}
+.modal-body img{
+width: 45%;
+}
+.footer{
+    font-size:20px;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color:burlywood;
+    text-align:center;
+}
+
+#game_console{
+    background:url('game_console.png');
+    background-size:cover;
+    background-position:center;
+    padding-top:10px;
+}
